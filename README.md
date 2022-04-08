@@ -5,9 +5,9 @@ All done quick 'n dirty, use at your own risk.
 
 Made during the [Heartbits workshop](https://hackersanddesigners.nl/s/Summer_Academy_2019/p/Heart_bits) by Andrea Valliere, Ana Jeličić, Jonas Bohatsch during HDSA2019. 
 
-## Getting Started
+![Selby making the case for the heartbeater](IMG_2340.jpeg "Selby making the case for the heartbeater")
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Getting Started
 
 ### Prerequisites
 

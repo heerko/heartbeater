@@ -3,7 +3,7 @@
 Arduino project recording a heartbeat using a Max20300 sensor and playing it back using a solenoid.
 All done quick 'n dirty, use at your own risk.
 
-Made during the [Heartbits workshop](https://hackersanddesigners.nl/s/Summer_Academy_2019/p/Heart_bits) by Andrea Valliere, Ana Jeličić, Jonas Bohatsch during HDSA2019. 
+Made during the [Heartbits workshop](https://hackersanddesigners.nl/s/Summer_Academy_2019/p/Heart_bits) by Andrea Valliere, Ana Jeličić, Jonas Bohatsch during HDSA2019. Developed in cooperation with [Selby Gildemacher](https://www.piek.com).
 
 ![Selby making the case for the heartbeater](IMG_2340.jpeg "Selby making the case for the heartbeater")
 
